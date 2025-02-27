@@ -1,0 +1,127 @@
+/* Buttons Style*/
+
+.subscribe-button {
+    background-color: rgb(204, 0, 0);
+    color:white;
+    font-size:14px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right:8px;
+    transition: opacity 0.15s;
+    margin-bottom: 10px;
+}
+
+.subscribe-button:hover {
+opacity: 0.8;
+}
+.subscribe-button:active{
+opacity:0.4;
+}
+.join{
+    background-color: rgb(6, 95, 212);
+    background-color: white;
+    border-color:rgb(42, 148, 219);
+    border-style:solid;
+    border-width:1px;
+    color:rgb(42, 148, 219);
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 2px;
+    cursor:pointer;
+    margin-right:8px;
+    transition: background-color 0.15s;
+    color: 0.15s;
+}
+
+.join:hover {
+background-color: rgb(49, 49, 231);
+color:white;
+}
+.join:active{
+opacity:0.7;
+}
+
+
+
+.tweet{
+background-color: rgb(29, 155, 240);
+border:none;
+color:white;
+padding-top: 7px;
+padding-bottom:7px;
+padding-left: 16px;
+padding-right: 16px;
+border-radius: 50px;
+font-size: 15px;
+font-weight:bold;
+cursor:pointer;
+margin-right:8px;
+line-height: 22.5px;
+transition: box-shadow 0.15s;
+
+}
+
+.tweet:hover {
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+
+
+/* padding styling */
+
+.back{
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius:3px;
+    border-width:1px;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-top: 40px;    
+}
+    .next{
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius:3px;
+    border-width:1px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 20px;
+    }
+    
+    .span
+    {
+        text-align: center;
+        color:blueviolet;
+    }
+     .str{
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: green;
+    border-width:1px;
+    font-weight: bold;
+    color:white;
+    font-size:15px;
+    cursor: pointer;
+    border-width:0;
+ }
+ .str:hover {
+    opacity: 0.8;
+    }
+.str:active{
+    opacity:0.4;
+
+    
+}
