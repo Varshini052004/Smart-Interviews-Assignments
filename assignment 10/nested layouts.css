@@ -1,0 +1,154 @@
+
+.channel-picture{
+    display: inline-block;
+    width:60px;
+    vertical-align: middle;
+  
+
+  }
+  .video-info{
+    display:inline-block;
+    width:200px;
+    vertical-align: top;
+   
+
+}
+.button-option{
+    display:inline-block;
+    vertical-align: top;
+}
+
+.picture{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius:50px;
+    margin-top: 10px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.A{
+ margin-top: 0;
+ font-size: 15px;
+ font-weight:bold;
+ line-height: 20px;
+margin-bottom: 5px;
+
+}
+.B,.C{
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+}
+.B{
+margin-bottom: 5px;
+}
+
+
+.D{
+    display:inline-block;
+    background-color: rgb(16, 136, 216);
+    border:none;
+    color:white;
+    padding-top: 7px;
+    padding-bottom:7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight:bold;
+    cursor:pointer;
+    line-height: 22.5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  
+   
+}
+
+.channel{
+    display: inline-block;
+     width:160px;
+    margin-bottom: 10px;
+  
+
+  }
+  .pic-2{
+    display: inline-block;
+    width: 150px;
+    height: 85px;
+ 
+}
+.video-information{
+    display:inline-block;
+    width:230px;
+   vertical-align: top;
+ 
+}
+
+.F{
+
+    width: 200px;
+    height: 200px;
+    display:block;
+ 
+}
+
+.G{
+    width:300px;
+    padding-top: 20px;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    padding-left: 10px;
+
+
+}
+.H{
+    display:inline-block;
+   vertical-align: middle;
+   color: rgb(144, 138, 138);
+    font-size: 15px;
+}
+
+.rar{
+    width:200px;
+    display:inline-block;
+    vertical-align: top;
+   box-shadow:  0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+   }
+   .I{
+    background-color: rgb(16, 136, 216);
+    border:none;
+    color:white;
+    padding-top: 7px;
+    padding-bottom:7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight:bold;
+    cursor:pointer;
+    line-height: 22.5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+   
+}
+.dog{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius:40px;
+   vertical-align: middle;
+   object-fit: cover;
+   margin-right:5px;
+   margin-left: 5px;
+}
+   
