@@ -1,0 +1,64 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #fff;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+    font-size: 16px;
+}
+.navbar a.active {
+    color: #0073e6;
+    font-weight: bold;
+}
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0073e6;
+    padding-left: 80px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+.card {
+    text-align: center;
+    max-width: 300px;
+}
+.price {
+    font-size: 90px;
+    font-weight: bold;
+    color: #f5a623;
+    position: relative;
+}
+.price::before {
+    content: '\20B9';
+    font-size: 24px;
+    position: absolute;
+    left: -20px;
+    top: 10px;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.desc {
+    font-size: 14px;
+    color: #555;
+    margin-top: 10px;
+}
