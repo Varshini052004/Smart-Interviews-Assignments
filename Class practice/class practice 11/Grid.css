@@ -1,0 +1,30 @@
+.A{
+background-color: lightblue;
+}
+.B{
+background-color: lightpink;
+}
+.c{
+    display: grid;
+    grid-template-columns: 100px 100px 200px;
+    margin-top: 30px;
+
+}
+.f{
+    display: grid;
+    grid-template-columns: 100px 1fr 2fr;
+    margin-top: 30px;
+
+}
+.g{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 30px;
+    height: 200px;
+    column-gap: 20px;
+    row-gap: 40px;
+
+}
+.h{
+    padding-bottom: 1000px;
+}
